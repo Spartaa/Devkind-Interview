@@ -1,8 +1,13 @@
-<h2>Devkind Senior Laravel Developer Test</h2>
+<h2>Devkind [Remote] Full Stack Laravel Developer Test</h2>
 <p>Users List , User can be edited and deleted and can change their password.
 Activity Log for the changes is handled by User Model Observer on updating and deleting.
 </p>
 <h3>Step To Run Project </h3>
+<b>
+Laravel Version: Laravel v8.20.1 (PHP v7.4.13)
+</b></br>
+
+
 1. composer Install Command
 
 2. npm install
